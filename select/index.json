@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Small girl（feat. D.O.）",
+  "base_artist": "Lee Young ji",
+  "createdAt": "2026-02-19T01:35:30.742678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O.) (Small girl )) (feat. D.O. & 도경수)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/01_Small_girl_(feat._D.O.)_(Small_girl_))_(feat._D.O._&_도경수)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O.)",
+      "artist": "Lee Young Ji",
+      "has_synced": true,
+      "path": "select/02_Small_girl_(feat._D.O.)_Lee_Young_Ji.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O",
+      "artist": "Lee Young Ji",
+      "has_synced": false,
+      "path": "select/03_Small_girl_(feat._D.O_Lee_Young_Ji.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O.)",
+      "artist": "Lee Young Ji & D.O.",
+      "has_synced": true,
+      "path": "select/04_Small_girl_(feat._D.O.)_Lee_Young_Ji_&_D.O..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lee Young ji 'Small girl (feat. D.O.)' Easy Lyrics",
+      "artist": "3vrblu",
+      "has_synced": true,
+      "path": "select/05_Lee_Young_ji_'Small_girl_(feat._D.O.)'_Easy_Lyrics_3vrblu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Small girl (Small girl) (feat. D.O.)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/06_Small_girl_(Small_girl)_(feat._D.O.)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O.) (Small girl ))",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/07_Small_girl_(feat._D.O.)_(Small_girl_))_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Small girl (feat. D.O.)",
+      "artist": "Lee Young Ji, D.O.",
+      "has_synced": false,
+      "path": "select/pl_01_Small_girl_(feat._D.O.)_Lee_Young_Ji,_D.O..txt"
+    }
+  ]
+}
